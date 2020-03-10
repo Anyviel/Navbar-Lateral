@@ -38,13 +38,13 @@ main {
   transition: width 600ms ease;
 }
 
-.navbar:hover {
+/* .navbar:hover {
   width: 16rem;
-}
+} */
 
-.navbar:hover .link-text {
+/* .navbar:hover .link-text {
   display: block;
-}
+} */
 
 .navbar-nav {
   list-style: none;
